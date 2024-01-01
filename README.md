@@ -74,9 +74,13 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![image](https://github.com/deepika3095/softweb/assets/151625159/6750f72f-5183-4c00-af43-ec8c5e6b99d9)
+
 ![image](https://github.com/deepika3095/softweb/assets/151625159/ce8d9295-0a4a-4cf3-82a3-c68cec93e44a)
+
 ![exp07](https://github.com/deepika3095/softweb/assets/151625159/23ae4580-87c7-4f55-8bb6-bf4b28584d2b)
+
 ![image](https://github.com/deepika3095/softweb/assets/151625159/06d03dc2-8268-4ba4-acb2-f5778f0304f1)
+
 ![image](https://github.com/deepika3095/softweb/assets/151625159/04b74c43-c5c2-42f1-9d14-6fb769e6f6b1)
 
 ## RESULT:
