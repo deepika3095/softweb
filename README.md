@@ -28,28 +28,52 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-![image](https://github.com/deepika3095/softweb/assets/151625159/4256c11a-f727-4ad8-bbd4-aee6b85dcb4e)
-![image](https://github.com/deepika3095/softweb/assets/151625159/831ff95e-b133-47a1-993d-fb39f8e28ac5)
-![image](https://github.com/deepika3095/softweb/assets/151625159/99958e8f-e354-4dd2-b7be-c0d7261bbdc7)
-![image](https://github.com/deepika3095/softweb/assets/151625159/d3a71c88-ad65-4d7d-bb1f-c369ea5868cf)
-![image](https://github.com/deepika3095/softweb/assets/151625159/c3db5bb3-22b9-4100-8bf0-3d66b62f0fb4)
-![image](https://github.com/deepika3095/softweb/assets/151625159/eb78d9c9-1b20-49b6-b14f-0272320875cc) 
-![image](https://github.com/deepika3095/softweb/assets/151625159/5b518978-caeb-4dba-9365-e2c78c983493)
-![image](https://github.com/deepika3095/softweb/assets/151625159/deedad46-4d13-4d11-aa4b-3e969b3e0b7b)
-![image](https://github.com/deepika3095/softweb/assets/151625159/619f8504-1dc4-4bb9-ab1a-f369e953a657)
-![image](https://github.com/deepika3095/softweb/assets/151625159/decf68ad-a0c1-41ad-8fcd-cc5aeaa97a52)
-![image](https://github.com/deepika3095/softweb/assets/151625159/d215dce0-7775-4dcd-a9f6-91ba79e234ca)
-![image](https://github.com/deepika3095/softweb/assets/151625159/3aba8c09-ed79-45f8-8459-13559a4cfadf)
-![image](https://github.com/deepika3095/softweb/assets/151625159/a9182d52-363a-4fa5-b223-0c2030d69b49)
-![image](https://github.com/deepika3095/softweb/assets/151625159/139c7385-c917-4a04-87ea-34937185fc0d)
-![image](https://github.com/deepika3095/softweb/assets/151625159/e72890ae-d240-4426-89af-b8ff1b0fea10)
+![image](https://github.com/deepika3095/softweb/assets/151625159/0ae7680a-9f63-4903-9f56-2e6b09b25922)
 
+![image](https://github.com/deepika3095/softweb/assets/151625159/83f31e3c-8712-4c7d-b51e-1db62f9d5b7e)
 
+![image](https://github.com/deepika3095/softweb/assets/151625159/f9dfeab3-17d6-4474-9ac4-ee16f8193097)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/dbbec8c9-f8e7-4545-b06a-9f69408e93c3)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/f8bfeccb-c9d0-47eb-bb8a-7bc55b7e124b)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/6836e7e1-fa27-45e0-b765-3cfd06492e0f)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/98642595-e4f2-4427-ac80-77f8cac24de8)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/f1b69f16-e8d8-4bae-a933-31a409c022ea)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/7a302df9-18a5-4aca-b463-49d7fc222d69)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/ca3fa869-380e-4a68-bde6-18b03ce4a164)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/d2aea670-9dad-4199-a5c1-f5ea71aeb67c)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/f16fc853-458e-4b0d-b7cb-0049e6f91ace)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/3ab9d1ec-35ff-46a4-86f2-2f9e2fb4835e)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/3875d8b8-7538-4e27-af8b-391803343dfa)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/5d85edb4-3874-4a2c-ad18-f50d57306176)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/c4998f0c-6b7b-40d9-b094-7a5e23adf952)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/71ce3a57-6b5b-4d5c-b650-63065b61f4c7)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/5cecf667-04fa-47ab-aad1-1bdc8ca734be)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/11e1086e-4d8d-4b6b-a0fa-6ef5d27d2734)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/a02c8e94-6cfb-412a-9706-f77597bf3f8f)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/7ec9b326-c607-4ed4-8796-4c237dacf962)
+
+![image](https://github.com/deepika3095/softweb/assets/151625159/d55eeb79-21c4-421c-a9c2-a67f9f86ca98)
 
 ## OUTPUT:
-![image](https://github.com/deepika3095/softweb/assets/151625159/3c60e1c1-2e3b-4b55-927c-42cbc744219b)
-![image](https://github.com/deepika3095/softweb/assets/151625159/d69d9301-c2eb-43cf-a57a-6035b286b7e3)
-![image](https://github.com/deepika3095/softweb/assets/151625159/9384e39d-4195-4677-8d7c-aee01b1e1f8b)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
