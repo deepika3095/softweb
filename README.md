@@ -33,7 +33,7 @@ Publish the website in the given URL.
 ![image](https://github.com/deepika3095/softweb/assets/151625159/99958e8f-e354-4dd2-b7be-c0d7261bbdc7)
 ![image](https://github.com/deepika3095/softweb/assets/151625159/d3a71c88-ad65-4d7d-bb1f-c369ea5868cf)
 ![image](https://github.com/deepika3095/softweb/assets/151625159/c3db5bb3-22b9-4100-8bf0-3d66b62f0fb4)
-![image](https://github.com/deepika3095/softweb/assets/151625159/eb78d9c9-1b20-49b6-b14f-0272320875cc)
+![image](https://github.com/deepika3095/softweb/assets/151625159/eb78d9c9-1b20-49b6-b14f-0272320875cc) 
 ![image](https://github.com/deepika3095/softweb/assets/151625159/5b518978-caeb-4dba-9365-e2c78c983493)
 ![image](https://github.com/deepika3095/softweb/assets/151625159/deedad46-4d13-4d11-aa4b-3e969b3e0b7b)
 ![image](https://github.com/deepika3095/softweb/assets/151625159/619f8504-1dc4-4bb9-ab1a-f369e953a657)
